@@ -1,0 +1,25 @@
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+  width: 100%;
+}
+.navbar-brand {
+  margin: 0;
+  width: 20%;
+  img {
+    width: 100%;
+  }
+}
+.nav-item {
+  font-size: 18px;
+}
+
+.dropdown-item {
+  list-style: none;
+  .avatar {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+// @media()

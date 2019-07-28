@@ -1,0 +1,15 @@
+.container {
+  margin-left: 0;
+  display: inline-block;
+  margin-right: 0;
+  .main-aside {
+    display: inline-block;
+    #repo {
+      font-size: 26px;
+    }
+    .title {
+      font-size: 18px;
+      font-weight: bold;
+    }
+  }
+}
